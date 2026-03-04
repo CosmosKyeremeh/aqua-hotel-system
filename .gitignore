@@ -1,0 +1,19 @@
+# Maven
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.eclipse
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# App runtime files
+*.pdf
+images/
+
+application.properties
